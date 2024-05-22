@@ -1,0 +1,110 @@
+C:\oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.exe
+C:\oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.deps.json
+C:\oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.runtimeconfig.json
+C:\oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.dll
+C:\oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.AssemblyReference.cache
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormInfo.resources
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormLogin.resources
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.GenerateResource.cache
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.GeneratedMSBuildEditorConfig.editorconfig
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfoInputs.cache
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfo.cs
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.CoreCompileInputs.cache
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.dll
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\refint\PracticalWorkII.dll
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.genruntimeconfig.cache
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\ref\PracticalWorkII.dll
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormCalculator.resources
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRecovery.resources
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRegister.resources
+C:\oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormTermsAndConditions.resources
+F:\CALCULATOR\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.exe
+F:\CALCULATOR\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.deps.json
+F:\CALCULATOR\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.runtimeconfig.json
+F:\CALCULATOR\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.dll
+F:\CALCULATOR\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.pdb
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.AssemblyReference.cache
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormCalculator.resources
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormInfo.resources
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormLogin.resources
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRecovery.resources
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRegister.resources
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormTermsAndConditions.resources
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.GenerateResource.cache
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.GeneratedMSBuildEditorConfig.editorconfig
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfoInputs.cache
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfo.cs
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.CoreCompileInputs.cache
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.dll
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\refint\PracticalWorkII.dll
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.pdb
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.genruntimeconfig.cache
+F:\CALCULATOR\PracticalWorkII\obj\Debug\net6.0-windows\ref\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.exe
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.deps.json
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.runtimeconfig.json
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.AssemblyReference.cache
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormCalculator.resources
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormInfo.resources
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormLogin.resources
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRecovery.resources
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRegister.resources
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormTermsAndConditions.resources
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.GenerateResource.cache
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfoInputs.cache
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfo.cs
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.CoreCompileInputs.cache
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\refint\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.genruntimeconfig.cache
+C:\Users\nspme\OneDrive\Escritorio\PracticalWorkII - HECHO FILES\PracticalWorkII\obj\Debug\net6.0-windows\ref\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.exe
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.deps.json
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.runtimeconfig.json
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.AssemblyReference.cache
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormCalculator.resources
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormInfo.resources
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormLogin.resources
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRecovery.resources
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRegister.resources
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormTermsAndConditions.resources
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.GenerateResource.cache
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfoInputs.cache
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfo.cs
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.CoreCompileInputs.cache
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\refint\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.genruntimeconfig.cache
+C:\Users\nspme\OneDrive\Documentos\PracticalWorkII\obj\Debug\net6.0-windows\ref\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.exe
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.deps.json
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.runtimeconfig.json
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\bin\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.AssemblyReference.cache
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormCalculator.resources
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormInfo.resources
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormLogin.resources
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRecovery.resources
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormRegister.resources
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.FormTermsAndConditions.resources
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.GenerateResource.cache
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfoInputs.cache
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.AssemblyInfo.cs
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.csproj.CoreCompileInputs.cache
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\refint\PracticalWorkII.dll
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.pdb
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\PracticalWorkII.genruntimeconfig.cache
+C:\Users\nspme\OneDrive\Escritorio\practical_work_II_oop\PracticalWorkII\obj\Debug\net6.0-windows\ref\PracticalWorkII.dll
